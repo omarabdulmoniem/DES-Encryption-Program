@@ -11,6 +11,7 @@ A terminal program Implementing DES Encryption Algorithm using bitwise operation
   - Plain text file name to be encrypted/decrypted 
   - Key file name (key should be in HEX format)
   - output file name
+
 * to run the program run the .exe followed by the desired parameters in the same directory for example:
 ```
 >DES.exe encrypt plain_text.txt key.txt encrypted.dat
