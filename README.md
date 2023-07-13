@@ -20,3 +20,5 @@ or
 ```
 >DES.exe decrypt encrypted.dat key.txt decrypted.txt
 ```
+## Notes for optimization
+This code can be optimized by reading files in binary format and using char arrays instead of strings
